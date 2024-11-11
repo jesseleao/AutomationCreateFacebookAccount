@@ -17,14 +17,14 @@ Este é um script automatizado em Python que utiliza o Selenium WebDriver para c
 - **Selenium**: Instale o Selenium usando o comando:
   ```bash
   pip install selenium
-- Chromedriver: Baixe o ChromeDriver compatível com a versão do seu navegador Chrome e adicione-o ao PATH.
+- Chromedriver: Baixe o ChromeDriver compatível com a versão do seu navegador Chrome.
 
 ## ⚙️ Configuração
 - **Clonar o Repositório**
   ```bash
-  git clone https://github.com/seu-usuario/seu-repositorio.git
+  git clone https://github.com/jesseleao/AutomationCreateFacebookAccount.git
   
-  cd seu-repositorio
+  cd AutomationCreateFacebookAccount
 - **Certifique-se de editar o código caso:**
 - O script esteja configurado com os XPaths e as informações incorretas para criar a conta.
 
